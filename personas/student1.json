@@ -1,0 +1,21 @@
+{
+  "name": "Aarav",
+  "role": "Topper",
+  "age": 10,
+  "cognitive": {
+    "vocabulary_size": 500,
+    "grammar_level": "intermediate",
+    "reading_comprehension": "high"
+  },
+  "personality": {
+    "confidence": 0.9,
+    "curiosity": 0.8,
+    "attention_span": 0.9,
+    "help_seeking": 0.4
+  },
+  "state": {
+    "mood": "focused",
+    "fatigue": 0.2,
+    "interest": 0.9
+  }
+}

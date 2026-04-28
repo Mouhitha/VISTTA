@@ -1,0 +1,21 @@
+{
+  "name": "Riya",
+  "role": "Average",
+  "age": 10,
+  "cognitive": {
+    "vocabulary_size": 250,
+    "grammar_level": "basic",
+    "reading_comprehension": "medium"
+  },
+  "personality": {
+    "confidence": 0.6,
+    "curiosity": 0.6,
+    "attention_span": 0.6,
+    "help_seeking": 0.6
+  },
+  "state": {
+    "mood": "neutral",
+    "fatigue": 0.4,
+    "interest": 0.6
+  }
+}

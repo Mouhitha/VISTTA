@@ -1,0 +1,21 @@
+{
+  "name": "Kabir",
+  "role": "Weak",
+  "age": 10,
+  "cognitive": {
+    "vocabulary_size": 80,
+    "grammar_level": "very_basic",
+    "reading_comprehension": "low"
+  },
+  "personality": {
+    "confidence": 0.2,
+    "curiosity": 0.5,
+    "attention_span": 0.3,
+    "help_seeking": 0.8
+  },
+  "state": {
+    "mood": "confused",
+    "fatigue": 0.6,
+    "interest": 0.4
+  }
+}
