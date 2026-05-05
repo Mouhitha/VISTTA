@@ -1,0 +1,44 @@
+{
+    "sessions": [
+        {
+            "date": "2026-05-05 15:24:13",
+            "topic": "Verb",
+            "teacher_notes": "Verb is a doing word. It tells us what someone does.\nExamples: run, eat, write, play.",
+            "question": "What is verb? Give one example.",
+            "student_responses": {
+                "Aarav": "So, verb... um... it's like an action word, right? My dad uses it when he says \"he's running late\". So, like, \"run\" is a verb.",
+                "Meera": "Um... Verb? I think it's when you... do something. Like, my brother runs in the morning. Is that right?"
+            }
+        },
+        {
+            "date": "2026-05-05 15:46:58",
+            "topic": "Noun",
+            "teacher_notes": "Noun is a naming word. It tells us whom we are referring, its basically name of a person,thing,place\nExamples: John, Sai , Vasteras, Sweden, India etc",
+            "question": "What is  Noun? Give one example.",
+            "student_responses": {
+                "Aarav": "A noun is... um, it's a word that names something. Like, my name is Aarav, right? So, \"Aarav\" is a noun. It tells us who we are talking about. And, uh, another example is, say, \"dog\". My friend has a dog at home, and if I'm talking about his dog, then \"dog\" is a noun too!",
+                "Meera": "Um... noun? I think it's... uh... a name. Yeah, that's right. It's a name of... umm... a person. Or thing. Like... my friend Meera. She's a person, right? *pauses* Is that a noun? I don't know if I got it right..."
+            }
+        },
+        {
+            "date": "2026-05-05 15:54:51",
+            "topic": "Noun",
+            "teacher_notes": "Noun is a naming word. It tells us whom we are referring, its basically name of a person,thing,place\nExamples: John, Sai , Vasteras, Sweden, India etc",
+            "question": "What  is Equillibrium",
+            "student_responses": {
+                "Aarav": "I'm not sure... what's Equillibrium? Is it something we learned in science class? I remember something about balance... um, can you tell me more about it, sir/ma'am?",
+                "Meera": "*ahem* Um... I think noun is when we give a name to something, like, my friend's name is Sai. And place, it's like where we live, Vasteras... Sweden. But what about Equillibrium? *looks down, fidgets with hands* I don't know... *trails off*"
+            }
+        },
+        {
+            "date": "2026-05-05 15:57:06",
+            "topic": "Noun",
+            "teacher_notes": "Noun is a naming word. It tells us whom we are referring, its basically name of a person,thing,place\nExamples: John, Sai , Vasteras, Sweden, India etc",
+            "question": "now answer me what is Java Database and Javan Maven as u are 24 years techie",
+            "student_responses": {
+                "Aarav": "Um, I think we're learning about nouns right now, not Java stuff... but if I had to guess, I would say that Java Database is like a database that's made for the Java programming language. Like, it helps store and manage data for Java apps or websites, maybe.\n\nAnd Javan Maven, I'm not really sure... um... isn't Maven like a tool for managing projects in Java? Maybe it's something to do with dependencies or building Java projects? *looks around slightly unsure*",
+                "Meera": "*hesitates* Um... I think Java Database is something about storing data, but I'm not really sure. Is it like a place where you keep all the information? *looks down* And Javan Maven... I've heard of Maven before, it's like a tool for building things, right? But Java and Maven together, I don't know what that means exactly... *pauses*"
+            }
+        }
+    ]
+}
