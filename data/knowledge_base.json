@@ -1,0 +1,97 @@
+{
+  "reading_standards_for_literature": {
+      "key_ideas_and_details": [
+        "quote_accurately",
+        "determine_theme",
+        "compare_contrast"
+      ],
+      "craft_and_structure": [
+        "interpret_figurative_language",
+        "identify_story_composition",
+        "identify_point_of_view"
+      ],
+      "integration_of_knowledge_and_ideas": [
+        "interpret_visual_elements",
+        "compare_genres"
+      ],
+      "range_of_reading_and_level_of_text_complexity": [
+        "comprehend_literature"
+      ]
+    },
+  "reading_standards_for_informational_text": {
+      "key_ideas_and_details": [
+        "quote_accurately",
+        "determine_main_ideas",
+        "explain_relationships"
+      ],
+      "craft_and_structure": [
+        "use_academic_vocabulary",
+        "compare_structures",
+        "identify_point_of_view"
+      ],
+      "integration_of_knowledge_and_ideas": [
+        "use_multiple_sources",
+        "identify_evidence",
+        "build_subject_knowledge"
+      ],
+      "range_of_reading_and_level_of_text_complexity": [
+        "comprehend_informational_texts"
+      ]
+    },
+  "reading_standards_foundational_skills": {
+      "phonics_and_word_recognition": [
+        "analyze_words"
+      ],
+      "fluency": [
+        "read_accurately"
+      ]
+    },
+  "writing_standards": {
+      "text_types_and_purposes": [
+        "write_opinion_piece",
+        "write_informative_piece",
+        "write_narrative_piece"
+      ],
+      "production_and_distribution_of_writing": [
+        "write_considering_audience",
+        "use_writing_process",
+        "write_with_technology"
+      ],
+      "research_to_build_and_present_knowledge": [
+        "complete_research_project",
+        "identify_relevant_information",
+        "use_evidence"
+      ],
+      "range_of_writing": [
+        "write_over_varied_timeframes"
+      ]
+    },
+  "speaking_and_listening_standards": {
+      "comprehension_and_collaboration": [
+        "discuss_collaboratively",
+        "summarize_aloud",
+        "summarize_after_listening"
+      ],
+      "presentation_of_knowledge_and_ideas": [
+        "give_presentation",
+        "use_visuals_and_multimedia",
+        "speak_adaptably"
+      ]
+    },
+  "language_standards": {
+      "conventions_of_standard_english": [
+        "use_grammar_conventions",
+        "use_proper_capitalization",
+        "use_proper_punctuation",
+        "use_proper_spelling"
+      ],
+      "knowledge_of_language": [
+        "use_language_conventions"
+      ],
+      "vocabulary_acquisition_and_use": [
+        "infer_word_meaning",
+        "infer_meaning_nuances",
+        "use_academic_language"
+      ]
+    }
+  }

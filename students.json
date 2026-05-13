@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Emma",
+    "knowledge": {
+      "correct_concepts": [
+        "quote_accurately",
+        "determine_theme",
+        "compare_genres"
+    ],
+    "misconceptions": [
+      "uses_commas_incorrectly",
+      "thinks_summarizing_is_the_same_as_stating_the_theme"
+    ]
+    },
+    "personality": {
+      "participation": 0.68,
+      "emotional_stability": 0.72,
+      "task_orientation": 0.49,
+      "receptiveness": 0.82
+    },
+    "state": {
+      "boredom": 0.10,
+      "engagement": 0.68,
+      "confusion": 0.18,
+      "frustration": 0.33,
+      "delight": 0.56,
+      "surprise": 0.15
+    }
+  },
+  {
+    "name": "Leo",
+    "knowledge": {
+      "correct_concepts": [
+        "compare_contrast",
+        "interpret_figurative_language",
+        "interpret_visual_elements"
+    ],
+    "misconceptions": [
+      "uses_capitalization_incorrectly",
+      "spells_vowel_sounds_incorrectly_(ai/ay,_ee/ea/ey,_ie/igh)"
+    ]
+    },
+    "personality": {
+      "participation": 0.52,
+      "emotional_stability": 0.45,
+      "task_orientation": 0.39,
+      "receptiveness": 0.62
+    },
+    "state": {
+      "boredom": 0.50,
+      "engagement": 0.55,
+      "confusion": 0.28,
+      "frustration": 0.17,
+      "delight": 0.40,
+      "surprise": 0.22
+    }
+  }
+]

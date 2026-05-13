@@ -1,0 +1,55 @@
+{
+    "reading_standards_for_literature": {
+        "key_ideas_and_details": {
+          "determine_theme": "struggles_to_identify_theme_of_complex_texts"
+        },
+        "range_of_reading_and_level_of_text_complexity": {
+          "comprehend_literature": "struggles_to_identify_theme_of_complex_texts"
+        }
+      },
+    "reading_standards_for_informational_text": {
+        "key_ideas_and_details": {
+          "determine_main_ideas": "does_not_understand_distinction_between_main_ideas_and_supporting_details"
+        },
+        "integration_of_knowledge_and_ideas": {
+          "identify_evidence": "does_not_understand_distinction_between_main_ideas_and_supporting_details"
+        }
+      },
+    "reading_standards_foundational_skills": {
+        "phonics_and_word_recognition": {
+          "analyze_words": "guesses_how_unknown_words_sound_instead_of_sounding_them_out"
+        }
+      },
+    "writing_standards": {
+        "text_types_and_purposes": {
+          "write_opinion_piece": [
+            "use_run_on_sentences",
+            "does_not_know_when_to_start_a_new_paragraph"
+          ],
+          "write_informative_piece": [
+            "use_run_on_sentences",
+            "does_not_know_when_to_start_a_new_paragraph"
+          ],
+          "write_narrative_piece": [
+            "use_run_on_sentences",
+            "does_not_know_when_to_start_a_new_paragraph"
+          ]
+        }
+      },
+    "speaking_and_listening_standards": {
+        "comprehension_and_collaboration": {
+          "summarize_aloud": "thinks_summarizing_is_the_same_as_stating_the_theme",
+          "summarize_after_listening": "thinks_summarizing_is_the_same_as_stating_the_theme"
+        }
+      },
+    "language_standards": {
+        "conventions_of_standard_english": {
+          "use_proper_capitalization": "uses_capitalization_incorrectly",
+          "use_proper_punctuation": "uses_commas_incorrectly",
+          "use_proper_spelling": "spells_vowel_sounds_incorrectly_(ai/ay,_ee/ea/ey,_ie/igh)"
+        },
+        "vocabulary_acquisition_and_use": {
+          "infer_word_meaning": "guesses_how_unknown_words_sound_instead_of_sounding_them_out"
+        }
+      }
+    }
