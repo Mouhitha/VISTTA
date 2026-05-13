@@ -4,7 +4,7 @@ import re
 import requests
 import os
 from typing import Any, List
-
+import streamlit as st
 from google import genai
 from google.genai import types
 
@@ -20,15 +20,14 @@ NON_ENGLISH_REPLIES = [
 ]
 
 
-def get_gemini_client():
-    api_key = os.getenv("GEMINI_API_KEY")
-    if not api_key:
-        raise RuntimeError(
-            "GEMINI_API_KEY is not set. Set it in PowerShell with: "
-            'setx GEMINI_API_KEY "your_key_here"'
-        )
-    return genai.Client(api_key=api_key)
 
+
+def get_gemini_client():
+    if "GEMINI_API_KEY" not in st.secrets:
+        raise RuntimeError("GEMINI_API_KEY is missing in Streamlit secrets")
+
+    api_key = st.secrets["GEMINI_API_KEY"]
+    return genai.Client(api_key=api_key)
 
 def flatten_knowledge_base(obj: Any) -> List[str]:
     concepts = []
