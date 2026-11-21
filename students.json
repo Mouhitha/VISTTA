@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Alice",
+    "personality": "curious and active",
+    "knowledge": "medium (12-year-old level)",
+    "emotion": "engaged",
+    "understanding": 0.6,
+    "attention": 0.8,
+    "memory": [],
+    "avatar": "avatars/student1.avif"
+  },
+  {
+    "name": "Bob",
+    "personality": "shy and hesitant",
+    "knowledge": "low (10-year-old level)",
+    "emotion": "confused",
+    "understanding": 0.3,
+    "attention": 0.5,
+    "memory": [],
+    "avatar": "avatars/student2.webp"
+  },
+  {
+    "name": "Charlie",
+    "personality": "overconfident",
+    "knowledge": "low (11-year-old level)",
+    "emotion": "confident",
+    "understanding": 0.4,
+    "attention": 0.6,
+    "memory": [],
+    "avatar": "avatars/student3.avif"
+  }
+]
